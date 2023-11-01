@@ -2,17 +2,17 @@
     {
         "name": "Cultured",
         "friendBonusUniques": [
-            "[+1 Culture] from every [Wonder]"
+            "[+3 Culture] from every [Wonder]"
         ],
         "allyBonusUniques": [
-            "[-15]% Culture cost of adopting new Policies", "[+1 Culture] from every [Wonder]"
+            "[-20]% Culture cost of adopting new Policies", "[+4 Culture] from every [Wonder]"
         ],
         "color": [139, 96, 255]
     },
     {
         "name": "Maritime",
-        "friendBonusUniques": ["[+10]% growth [in all cities]"],
-        "allyBonusUniques": ["[+15]% [Food] [in all cities]", "[+10]% growth [in all cities]"],
+        "friendBonusUniques": ["[+20]% growth [in all cities]"],
+        "allyBonusUniques": ["[+25]% [Food] [in all cities]", "[+20]% growth [in all cities]"],
         "color": [56, 255, 112]
     },
     {
@@ -21,23 +21,23 @@
             "Provides a unique luxury"
         ],
         "allyBonusUniques": [
-            "[-15]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"
+            "[-25]% maintenance cost for buildings [in all cities]", "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
     },
     {
         "name": "Militaristic",
-        "friendBonusUniques": ["Provides military units every ≈[16] turns"],
-        "allyBonusUniques": ["[+15]% XP gained from combat <for [Military] units>", "Provides military units every ≈[16] turns"],
+        "friendBonusUniques": ["Provides military units every ≈[15] turns"],
+        "allyBonusUniques": ["[+25]% XP gained from combat <for [Military] units>", "Provides military units every ≈[15] turns"],
         "color": [255, 0, 0]
     },
     {
         "name": "Religious",
         "friendBonusUniques":  [
-            "[+10]% Natural religion spread [in all cities]"
+            "[+35]% Natural religion spread [in all cities]"
         ],
         "allyBonusUniques":  [
-            "[Faith] cost of purchasing items in cities [-15]%", "[+10]% Natural religion spread [in all cities]"
+            "[Faith] cost of purchasing items in cities [-40]%", "[+35]% Natural religion spread [in all cities]"
         ],
         "color": [255, 255, 255]
     }

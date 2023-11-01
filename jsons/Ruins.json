@@ -2,14 +2,14 @@
     {
         "name": "discover cultural artifacts",
         "notification": "",
-        "uniques": ["Gain [10]-[30] [Culture]"],
+        "uniques": ["Gain [1000]-[5000] [Culture]"],
         "color": "#cf8ff7"
     },
     {
         "name": "squatters willing to work for you",
         "notification": "A [Worker] has joined us!",
         "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+        "excludedDifficulties": ["Settler", "Prince", "King", "Emperor", "Immortal", "Deity"]
     },
     {
         "name": "squatters wishing to settle under your rule",
